@@ -6,11 +6,11 @@
 
 - 📚 Lifelong learner 😊
 
-- <p><a href="https://www.felixcodes.works" target="_blank">🌍 Check out my portfolio website</a></p>
+- 💻 Changing the world with one keystroke at a time
 
-- ⚡ Fun fact: i love Flutter😄
+- I love to talk about technology and football
 
-- You can send me an email at **felixasamoah539@gmail.com**
+- You can reach out to me via email at **felixasamoah539@gmail.com**
 
 ---
 
