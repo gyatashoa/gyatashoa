@@ -2,7 +2,7 @@
 
 
 
-- 🎓  A recent computer science graduate
+- 🎓  A computer science graduate
 
 - 📚 Lifelong learner 😊
 
